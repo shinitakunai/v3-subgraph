@@ -2,7 +2,7 @@ specVersion: 0.0.2
 description: A copy of Uniswap's Arbitrum subgraph
 graft:
   base: QmYrooNJpZZkpsMxG44wJgkbnSbEsT9B8wbStADdrydewT
-  block: 3915522
+  block: 4050826
 repository: https://github.com/Uniswap/uniswap-v3-subgraph
 schema:
   file: ./schema.graphql

@@ -50,8 +50,6 @@ type Pool @entity {
 type UniswapDayData @entity {
   # timestamp rounded to current day by dividing by 86400
   id: ID!
-  # timestamp rounded to current day by dividing by 86400
-  date: Int!
   # volume in derived USD
   volumeUSD: BigDecimal!
 }
